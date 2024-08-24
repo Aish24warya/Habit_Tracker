@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744962166881",
+    "project_id": "habittracker-b6061",
+    "storage_bucket": "habittracker-b6061.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744962166881:android:c332eff41d7c723939da20",
+        "android_client_info": {
+          "package_name": "com.SystemicAltruism.habittrackerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC38ZpKGk36HgFRAHgsvm9H12WUivmmd8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
