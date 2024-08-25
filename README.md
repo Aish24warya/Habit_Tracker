@@ -1,6 +1,7 @@
 # habittrackerapp
+Habit Tracker App is a mobile application built with Flutter to help users track and manage their daily habits efficiently. It offers an intuitive user interface alongside a variety of features that assist users in forming and sustaining positive habits.
 
-A new Flutter project.
+
 
 ## Getting Started
 
