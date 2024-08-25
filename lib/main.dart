@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:habittrackerapp/feature/auth/navigatorscreen.dart';
 import 'package:habittrackerapp/feature/auth/screens/LoginScreen.dart';
-import 'package:habittrackerapp/feature/navigatorscreen.dart';
 import 'package:habittrackerapp/feature/services/authwrapper.dart';
 import 'package:habittrackerapp/theme/themechange.dart';
-import 'firebase_options.dart';
+import 'feature/services/firebase_options.dart';
 import 'package:provider/provider.dart';
 
 void main()async{

@@ -8,7 +8,7 @@ import 'package:habittrackerapp/common/spacing.dart';
 import 'package:habittrackerapp/feature/appscreens/HomeScreen.dart';
 import 'package:habittrackerapp/feature/auth/screens/RegistrationScreen.dart';
 import 'package:habittrackerapp/feature/auth/widget/custom_button.dart';
-import 'package:habittrackerapp/feature/navigatorscreen.dart';
+import 'package:habittrackerapp/feature/auth/navigatorscreen.dart';
 import 'package:habittrackerapp/feature/services/authservice.dart';
 import 'package:habittrackerapp/theme/Colors.dart';
 import 'package:habittrackerapp/theme/text_theme.dart';
